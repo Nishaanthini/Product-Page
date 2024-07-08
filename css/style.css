@@ -1,0 +1,36 @@
+body{
+margin: 0px 0px;
+padding: 0px,0px;
+background-color:burlywood;
+}
+section{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+span{
+    color: black;
+}
+.box{
+background-color: white;
+text-align: center;
+padding: 20px;
+margin: 20px;
+
+}
+.box img{
+height: 250px;
+width: 250px;
+border-radius: 5px;
+}
+.box button{
+background-color: green;
+color: white;
+border-radius:5px;
+border: none;
+justify-content: center;
+padding: 10px;
+}
+.box p{
+    color: blue;
+}
